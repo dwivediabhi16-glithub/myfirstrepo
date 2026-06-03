@@ -1,1 +1,1 @@
-rgs=["my-resource-group","rg2"]
+my-resource-group=["rg2","rg3"]
