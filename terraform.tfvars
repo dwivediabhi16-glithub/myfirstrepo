@@ -1,0 +1,1 @@
+rgs=["my-resource-group","rg2"]
