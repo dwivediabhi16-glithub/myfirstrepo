@@ -1,1 +1,2 @@
-my-resource-group=["rg1","rg2"]
+name=var.rg_name
+location=var.location
